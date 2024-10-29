@@ -14,8 +14,11 @@ Here’s how the plugin interface looks across different devices:
 - **Admin Dashboard View**
 ![Admin Dashboard](images/dashboard.png) 
 - **Front-End Creation Form**
+
 ![Create Certificate Form](images/create_certificate.png)  
-- **Front-End Verification Form**  
+- **Front-End Verification Form**
+
+  
 ![Verify Certificate Form](images/verify_certificate.png)  
 
 ## ✨ **Features**
